@@ -1,0 +1,602 @@
+{
+  "conversations": [
+    {
+      "conversationId": "chat1",
+      "members": ["113631046134050435768", "123456789012345678901"],
+      "messages": [
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Perfect! I’ll ping you once it’s ready.",
+          "timestamp": "2024-11-24T12:40:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Looking forward to it! Let’s get it done.",
+          "timestamp": "2024-11-24T12:45:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Perfect! I’ll ping you once it’s ready.",
+          "timestamp": "2024-11-24T12:40:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Looking forward to it! Let’s get it done.",
+          "timestamp": "2024-11-24T12:45:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Perfect! I’ll ping you once it’s ready.",
+          "timestamp": "2024-11-24T12:40:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Looking forward to it! Let’s get it done.",
+          "timestamp": "2024-11-24T12:45:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Perfect! I’ll ping you once it’s ready.",
+          "timestamp": "2024-11-24T12:40:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Looking forward to it! Let’s get it done.",
+          "timestamp": "2024-11-24T12:45:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },{
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Perfect! I’ll ping you once it’s ready.",
+          "timestamp": "2024-11-24T12:40:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Looking forward to it! Let’s get it done.",
+          "timestamp": "2024-11-24T12:45:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },{
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Perfect! I’ll ping you once it’s ready.",
+          "timestamp": "2024-11-24T12:40:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Looking forward to it! Let’s get it done.",
+          "timestamp": "2024-11-24T12:45:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Hello John, how are you?",
+          "timestamp": "2024-11-24T12:00:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "I'm doing well, thanks! How about you?",
+          "timestamp": "2024-11-24T12:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "I'm good, just finishing up some work.",
+          "timestamp": "2024-11-24T12:10:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Sounds good! What's the latest on the project?",
+          "timestamp": "2024-11-24T12:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "We’re almost done with the final feature. Just a few tweaks left.",
+          "timestamp": "2024-11-24T12:20:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "Nice, let me know if you need any help.",
+          "timestamp": "2024-11-24T12:25:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678901",
+          "text": "Thanks, I might need a hand with testing.",
+          "timestamp": "2024-11-24T12:30:00"
+        },
+        {
+          "senderId": "123456789012345678901",
+          "receiverId": "113631046134050435768",
+          "text": "No problem, I’m available later this afternoon.",
+          "timestamp": "2024-11-24T12:35:00"
+        }
+      ]
+    },
+    {
+      "conversationId": "chat2",
+      "members": ["113631046134050435768", "123456789012345678902"],
+      "messages": [
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678902",
+          "text": "Hey Jane, have you checked the mockup?",
+          "timestamp": "2024-11-24T13:00:00"
+        },
+        {
+          "senderId": "123456789012345678902",
+          "receiverId": "113631046134050435768",
+          "text": "Yes, I’m reviewing it now. I’ll share feedback soon.",
+          "timestamp": "2024-11-24T13:05:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678902",
+          "text": "Great, let me know if you need any changes.",
+          "timestamp": "2024-11-24T13:10:00"
+        },
+        {
+          "senderId": "123456789012345678902",
+          "receiverId": "113631046134050435768",
+          "text": "Will do! I think it’s looking good so far.",
+          "timestamp": "2024-11-24T13:15:00"
+        },
+        {
+          "senderId": "113631046134050435768",
+          "receiverId": "123456789012345678902",
+          "text": "Awesome, I’m glad to hear that!",
+          "timestamp": "2024-11-24T13:20:00"
+        },
+        {
+          "senderId": "123456789012345678902",
+          "receiverId": "113631046134050435768",
+          "text": "I’ll send the feedback by the end of the day.",
+          "timestamp": "2024-11-24T13:25:00"
+        }
+      ]
+    }
+  ]
+}
